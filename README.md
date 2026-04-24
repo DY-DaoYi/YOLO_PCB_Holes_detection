@@ -1,9 +1,9 @@
 # 🕳️ 基于 YOLO 的PCB孔检测系统 (PCB Hole Detection System)
 
-Python
-Streamlit
-YOLO
-License
+![Python](https://img.shields.io/badge/Python-3.11.15-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.55.0-red)
+![YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-8.4.21-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 本项目是一个功能完整的 PCB 孔位缺陷检测系统。基于最新的 Ultralytics YOLO 系列模型构建，能够检测 PCB 图像中的孔位缺陷（如缺孔等）。本项目提供了美观、易用的 Streamlit Web 交互界面，非常适合同学们参考与展示。
 

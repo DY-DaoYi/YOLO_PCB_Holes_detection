@@ -13,7 +13,7 @@ License
 >
 > **🔗 开源地址**：
 >
-> - **GitCode**：[点击访问](https://gitcode.com/DY-DaoYi/YOLO_PCB_Holes_detection)
+> - **CNB**：[点击访问](https://cnb.cool/DY-DaoYi/YOLO_PCB_Holes_detection)
 > - **GitHub**：[点击访问](https://github.com/DY-DaoYi/YOLO_PCB_Holes_detection)
 >
 > **🛒 核心模型与训练源码资源包 (Core Models & Training Codes) 包含：**

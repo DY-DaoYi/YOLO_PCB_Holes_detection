@@ -25,8 +25,8 @@
 >
 > **📥 立即获取资源包：**
 >
-> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmJ5yaw==)（**0.7折优惠，自动发货**）
-> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.itBM7lw?tk=UrpO58tn8GJ)（**0.8折优惠**）
+> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmJ5yaw==)（**自动发货**）
+> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.itBM7lw?tk=UrpO58tn8GJ)
 
 ---
 
@@ -213,8 +213,8 @@ YOLO_PCB_Holes_detection/
 >
 > **📥 立即获取资源包：**
 >
-> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmJ5yaw==)（**0.7折优惠，自动发货**）
-> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.itBM7lw?tk=UrpO58tn8GJ)（**0.8折优惠**）
+> - 🍞 **面包多**：[点击购买](https://mbd.pub/o/bread/YZWcmJ5yaw==)（**自动发货**）
+> - 🐟 **闲鱼**：[点击购买](https://m.tb.cn/h.itBM7lw?tk=UrpO58tn8GJ)
 
 > ---
 
